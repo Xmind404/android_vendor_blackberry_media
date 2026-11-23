@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="app_name">BlackBerry wallpapers</string>
+    <string name="category_other" translatable="false">BlackBerry</string>
+    <string name="category_lockscreen">Lock screen</string>
+    <string name="category_landscape">Landscapes</string>
+    <string name="category_nature">Nature</string>
+    <string name="category_architecture">Architecture</string>
+    <string name="category_travel">Travel</string>
+    <string name="category_animal">Animals</string>
+    <string name="category_minimalism">Minimalism</string>
+    <string name="category_blackwhite">Black &amp; white</string>
+    <string name="category_food">Food &amp; drink</string>
+</resources>

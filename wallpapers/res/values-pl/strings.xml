@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="app_name">Tapety BlackBerry</string>
+    <string name="category_lockscreen">Ekran blokady</string>
+    <string name="category_landscape">Krajobrazy</string>
+    <string name="category_nature">Natura</string>
+    <string name="category_architecture">Architektura</string>
+    <string name="category_travel">Podróże</string>
+    <string name="category_animal">Zwierzęta</string>
+    <string name="category_minimalism">Minimalizm</string>
+    <string name="category_blackwhite">Czarno-białe</string>
+    <string name="category_food">Jedzenie i napoje</string>
+</resources>

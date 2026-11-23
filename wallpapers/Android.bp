@@ -1,0 +1,19 @@
+//
+// SPDX-FileCopyrightText: 2026 The LineageOS Project
+// SPDX-License-Identifier: Apache-2.0
+//
+// Partner customization package exposing the BlackBerry KEY2 stock
+// wallpapers to WallpaperPicker2 ("Wallpaper & style"). The images are
+// BlackBerry stock assets; only this build glue is Apache-2.0.
+//
+
+android_app {
+    name: "BlackBerryWallpapers",
+    srcs: ["src/**/*.java"],
+    resource_dirs: ["res"],
+    sdk_version: "current",
+    certificate: "platform",
+    product_specific: true,
+    // The images are already compressed; skip PNG crunching.
+    aaptflags: ["--no-crunch"],
+}

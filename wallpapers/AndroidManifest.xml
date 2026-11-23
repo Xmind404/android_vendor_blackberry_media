@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.lineageos.blackberry.wallpapers">
+
+    <application
+        android:label="@string/app_name"
+        android:hasCode="true">
+
+        <!-- WallpaperPicker2 finds partner wallpapers through system apps that
+             declare this receiver; it never actually sends the broadcast. -->
+        <receiver
+            android:name=".PartnerReceiver"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.android.launcher3.action.PARTNER_CUSTOMIZATION" />
+            </intent-filter>
+        </receiver>
+    </application>
+</manifest>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<wallpapers>
+    <category id="blackberry_other" title="@string/category_other">
+        <static-wallpaper id="blackberry_other_default_wallpaper" src="@drawable/other_default_wallpaper" />
+        <static-wallpaper id="blackberry_other_default_wallpaper_2" src="@drawable/other_default_wallpaper_2" />
+        <static-wallpaper id="blackberry_other_wallpaper1" src="@drawable/other_wallpaper1" />
+        <static-wallpaper id="blackberry_other_wallpaper2" src="@drawable/other_wallpaper2" />
+        <static-wallpaper id="blackberry_other_wallpaper3" src="@drawable/other_wallpaper3" />
+        <static-wallpaper id="blackberry_other_wallpaper4" src="@drawable/other_wallpaper4" />
+        <static-wallpaper id="blackberry_other_wallpaper5" src="@drawable/other_wallpaper5" />
+        <static-wallpaper id="blackberry_other_wallpaper6" src="@drawable/other_wallpaper6" />
+        <static-wallpaper id="blackberry_other_wallpaper7" src="@drawable/other_wallpaper7" />
+        <static-wallpaper id="blackberry_other_wallpaper8" src="@drawable/other_wallpaper8" />
+        <static-wallpaper id="blackberry_other_wallpaper9" src="@drawable/other_wallpaper9" />
+        <static-wallpaper id="blackberry_other_wallpaper10" src="@drawable/other_wallpaper10" />
+        <static-wallpaper id="blackberry_other_wallpaper11" src="@drawable/other_wallpaper11" />
+        <static-wallpaper id="blackberry_other_wallpaper12" src="@drawable/other_wallpaper12" />
+        <static-wallpaper id="blackberry_other_wallpaper13" src="@drawable/other_wallpaper13" />
+        <static-wallpaper id="blackberry_other_wallpaper14" src="@drawable/other_wallpaper14" />
+        <static-wallpaper id="blackberry_other_wallpaper15" src="@drawable/other_wallpaper15" />
+        <static-wallpaper id="blackberry_other_wallpaper16" src="@drawable/other_wallpaper16" />
+        <static-wallpaper id="blackberry_other_wallpaper17" src="@drawable/other_wallpaper17" />
+        <static-wallpaper id="blackberry_other_wallpaper18" src="@drawable/other_wallpaper18" />
+        <static-wallpaper id="blackberry_other_wallpaper19" src="@drawable/other_wallpaper19" />
+        <static-wallpaper id="blackberry_other_wallpaper20" src="@drawable/other_wallpaper20" />
+        <static-wallpaper id="blackberry_other_wallpaper21" src="@drawable/other_wallpaper21" />
+        <static-wallpaper id="blackberry_other_wallpaper22" src="@drawable/other_wallpaper22" />
+        <static-wallpaper id="blackberry_other_wallpaper23" src="@drawable/other_wallpaper23" />
+        <static-wallpaper id="blackberry_other_wallpaper24" src="@drawable/other_wallpaper24" />
+    </category>
+    <category id="blackberry_lockscreen" title="@string/category_lockscreen">
+        <static-wallpaper id="blackberry_lockscreen_settings_picture_lock_sample01" src="@drawable/lockscreen_settings_picture_lock_sample01" />
+        <static-wallpaper id="blackberry_lockscreen_settings_picture_lock_sample02" src="@drawable/lockscreen_settings_picture_lock_sample02" />
+        <static-wallpaper id="blackberry_lockscreen_settings_picture_lock_sample03" src="@drawable/lockscreen_settings_picture_lock_sample03" />
+        <static-wallpaper id="blackberry_lockscreen_settings_picture_lock_sample04" src="@drawable/lockscreen_settings_picture_lock_sample04" />
+        <static-wallpaper id="blackberry_lockscreen_settings_picture_lock_sample05" src="@drawable/lockscreen_settings_picture_lock_sample05" />
+        <static-wallpaper id="blackberry_lockscreen_settings_picture_lock_sample06" src="@drawable/lockscreen_settings_picture_lock_sample06" />
+        <static-wallpaper id="blackberry_lockscreen_settings_picture_lock_sample07" src="@drawable/lockscreen_settings_picture_lock_sample07" />
+        <static-wallpaper id="blackberry_lockscreen_settings_picture_lock_sample08" src="@drawable/lockscreen_settings_picture_lock_sample08" />
+        <static-wallpaper id="blackberry_lockscreen_settings_picture_lock_sample09" src="@drawable/lockscreen_settings_picture_lock_sample09" />
+        <static-wallpaper id="blackberry_lockscreen_settings_picture_lock_sample10" src="@drawable/lockscreen_settings_picture_lock_sample10" />
+        <static-wallpaper id="blackberry_lockscreen_settings_picture_lock_sample11" src="@drawable/lockscreen_settings_picture_lock_sample11" />
+        <static-wallpaper id="blackberry_lockscreen_settings_picture_lock_sample12" src="@drawable/lockscreen_settings_picture_lock_sample12" />
+        <static-wallpaper id="blackberry_lockscreen_settings_picture_lock_sample13" src="@drawable/lockscreen_settings_picture_lock_sample13" />
+        <static-wallpaper id="blackberry_lockscreen_settings_picture_lock_sample14" src="@drawable/lockscreen_settings_picture_lock_sample14" />
+        <static-wallpaper id="blackberry_lockscreen_settings_picture_lock_sample15" src="@drawable/lockscreen_settings_picture_lock_sample15" />
+    </category>
+    <category id="blackberry_landscape" title="@string/category_landscape">
+        <static-wallpaper id="blackberry_landscape_adam_krowitz_386792_unsplash" src="@drawable/landscape_adam_krowitz_386792_unsplash" />
+        <static-wallpaper id="blackberry_landscape_alexander_andrews_394970_unsplash" src="@drawable/landscape_alexander_andrews_394970_unsplash" />
+        <static-wallpaper id="blackberry_landscape_ashim_d_silva_162286_unsplash" src="@drawable/landscape_ashim_d_silva_162286_unsplash" />
+        <static-wallpaper id="blackberry_landscape_chris_arock_420349_unsplash" src="@drawable/landscape_chris_arock_420349_unsplash" />
+        <static-wallpaper id="blackberry_landscape_grant_ritchie_338423_unsplash" src="@drawable/landscape_grant_ritchie_338423_unsplash" />
+        <static-wallpaper id="blackberry_landscape_ian_keefe_452136_unsplash" src="@drawable/landscape_ian_keefe_452136_unsplash" />
+        <static-wallpaper id="blackberry_landscape_jake_blucker_316192_unsplash" src="@drawable/landscape_jake_blucker_316192_unsplash" />
+        <static-wallpaper id="blackberry_landscape_jaromir_kavan_296728_unsplash" src="@drawable/landscape_jaromir_kavan_296728_unsplash" />
+        <static-wallpaper id="blackberry_landscape_jean_philippe_delberghe_461641_unsplash" src="@drawable/landscape_jean_philippe_delberghe_461641_unsplash" />
+        <static-wallpaper id="blackberry_landscape_katie_moum_394599_unsplash" src="@drawable/landscape_katie_moum_394599_unsplash" />
+        <static-wallpaper id="blackberry_landscape_marcus_wallis_473525_unsplash" src="@drawable/landscape_marcus_wallis_473525_unsplash" />
+        <static-wallpaper id="blackberry_landscape_mario_taferner_339576_unsplash" src="@drawable/landscape_mario_taferner_339576_unsplash" />
+        <static-wallpaper id="blackberry_landscape_matthew_larkin_398651_unsplash" src="@drawable/landscape_matthew_larkin_398651_unsplash" />
+        <static-wallpaper id="blackberry_landscape_milkovi_414159_unsplash" src="@drawable/landscape_milkovi_414159_unsplash" />
+        <static-wallpaper id="blackberry_landscape_mohammad_alizade_368770_unsplash" src="@drawable/landscape_mohammad_alizade_368770_unsplash" />
+        <static-wallpaper id="blackberry_landscape_nate_rayfield_336417_unsplash" src="@drawable/landscape_nate_rayfield_336417_unsplash" />
+        <static-wallpaper id="blackberry_landscape_rob_musson_458944_unsplash" src="@drawable/landscape_rob_musson_458944_unsplash" />
+        <static-wallpaper id="blackberry_landscape_robert_richarz_498684_unsplash" src="@drawable/landscape_robert_richarz_498684_unsplash" />
+        <static-wallpaper id="blackberry_landscape_sean_pierce_342043_unsplash" src="@drawable/landscape_sean_pierce_342043_unsplash" />
+        <static-wallpaper id="blackberry_landscape_sherman_yang_503440_unsplash" src="@drawable/landscape_sherman_yang_503440_unsplash" />
+        <static-wallpaper id="blackberry_landscape_shifaaz_shamoon_302646_unsplash" src="@drawable/landscape_shifaaz_shamoon_302646_unsplash" />
+        <static-wallpaper id="blackberry_landscape_stephen_leonardi_369720_unsplash" src="@drawable/landscape_stephen_leonardi_369720_unsplash" />
+    </category>
+    <category id="blackberry_nature" title="@string/category_nature">
+        <static-wallpaper id="blackberry_nature_aaron_burden_261110_unsplash" src="@drawable/nature_aaron_burden_261110_unsplash" />
+        <static-wallpaper id="blackberry_nature_annie_spratt_199471_unsplash" src="@drawable/nature_annie_spratt_199471_unsplash" />
+        <static-wallpaper id="blackberry_nature_dakota_corbin_207925_unsplash" src="@drawable/nature_dakota_corbin_207925_unsplash" />
+        <static-wallpaper id="blackberry_nature_flo_dahm_463416_unsplash" src="@drawable/nature_flo_dahm_463416_unsplash" />
+        <static-wallpaper id="blackberry_nature_paul_larkin_524582_unsplash" src="@drawable/nature_paul_larkin_524582_unsplash" />
+        <static-wallpaper id="blackberry_nature_peng_chen_407915_unsplash" src="@drawable/nature_peng_chen_407915_unsplash" />
+    </category>
+    <category id="blackberry_architecture" title="@string/category_architecture">
+        <static-wallpaper id="blackberry_architecture_andre_benz_475077_unsplash" src="@drawable/architecture_andre_benz_475077_unsplash" />
+        <static-wallpaper id="blackberry_architecture_andre_benz_501827_unsplash" src="@drawable/architecture_andre_benz_501827_unsplash" />
+        <static-wallpaper id="blackberry_architecture_annie_spratt_434973_unsplash" src="@drawable/architecture_annie_spratt_434973_unsplash" />
+        <static-wallpaper id="blackberry_architecture_annie_spratt_542975_unsplash" src="@drawable/architecture_annie_spratt_542975_unsplash" />
+        <static-wallpaper id="blackberry_architecture_benjamin_dickerhof_499931_unsplash" src="@drawable/architecture_benjamin_dickerhof_499931_unsplash" />
+        <static-wallpaper id="blackberry_architecture_daniel_burka_104041_unsplash" src="@drawable/architecture_daniel_burka_104041_unsplash" />
+        <static-wallpaper id="blackberry_architecture_dawson_lovell_498973_unsplash" src="@drawable/architecture_dawson_lovell_498973_unsplash" />
+        <static-wallpaper id="blackberry_architecture_derek_liang_308130_unsplash" src="@drawable/architecture_derek_liang_308130_unsplash" />
+        <static-wallpaper id="blackberry_architecture_derek_liang_503982_unsplash" src="@drawable/architecture_derek_liang_503982_unsplash" />
+        <static-wallpaper id="blackberry_architecture_eddie_garcia_503671_unsplash" src="@drawable/architecture_eddie_garcia_503671_unsplash" />
+        <static-wallpaper id="blackberry_architecture_john_towner_133303_unsplash" src="@drawable/architecture_john_towner_133303_unsplash" />
+        <static-wallpaper id="blackberry_architecture_karsten_wurth_inf1783_169610_unsplash" src="@drawable/architecture_karsten_wurth_inf1783_169610_unsplash" />
+        <static-wallpaper id="blackberry_architecture_mwangi_gatheca_548638_unsplash" src="@drawable/architecture_mwangi_gatheca_548638_unsplash" />
+        <static-wallpaper id="blackberry_architecture_nicholas_loo_372788_unsplash" src="@drawable/architecture_nicholas_loo_372788_unsplash" />
+        <static-wallpaper id="blackberry_architecture_osman_rana_193635_unsplash" src="@drawable/architecture_osman_rana_193635_unsplash" />
+        <static-wallpaper id="blackberry_architecture_redd_angelo_236775_unsplash" src="@drawable/architecture_redd_angelo_236775_unsplash" />
+        <static-wallpaper id="blackberry_architecture_roman_kraft_51047_unsplash" src="@drawable/architecture_roman_kraft_51047_unsplash" />
+        <static-wallpaper id="blackberry_architecture_roya_ann_miller_463707_unsplash" src="@drawable/architecture_roya_ann_miller_463707_unsplash" />
+    </category>
+    <category id="blackberry_travel" title="@string/category_travel">
+        <static-wallpaper id="blackberry_travel_annie_spratt_441579_unsplash" src="@drawable/travel_annie_spratt_441579_unsplash" />
+        <static-wallpaper id="blackberry_travel_charlie_costello_301722_unsplash" src="@drawable/travel_charlie_costello_301722_unsplash" />
+        <static-wallpaper id="blackberry_travel_clarisse_meyer_304307_unsplash" src="@drawable/travel_clarisse_meyer_304307_unsplash" />
+        <static-wallpaper id="blackberry_travel_dorian_mongel_340528_unsplash" src="@drawable/travel_dorian_mongel_340528_unsplash" />
+        <static-wallpaper id="blackberry_travel_henri_picot_542943_unsplash" src="@drawable/travel_henri_picot_542943_unsplash" />
+        <static-wallpaper id="blackberry_travel_ian_keefe_218453_unsplash" src="@drawable/travel_ian_keefe_218453_unsplash" />
+        <static-wallpaper id="blackberry_travel_ian_parker_546257_unsplash" src="@drawable/travel_ian_parker_546257_unsplash" />
+        <static-wallpaper id="blackberry_travel_igor_ovsyannykov_219668_unsplash" src="@drawable/travel_igor_ovsyannykov_219668_unsplash" />
+        <static-wallpaper id="blackberry_travel_jaime_arrieta_237601_unsplash" src="@drawable/travel_jaime_arrieta_237601_unsplash" />
+        <static-wallpaper id="blackberry_travel_james_connolly_391460_unsplash" src="@drawable/travel_james_connolly_391460_unsplash" />
+        <static-wallpaper id="blackberry_travel_linh_nguyen_145766_unsplash" src="@drawable/travel_linh_nguyen_145766_unsplash" />
+        <static-wallpaper id="blackberry_travel_luca_bravo_453157_unsplash" src="@drawable/travel_luca_bravo_453157_unsplash" />
+        <static-wallpaper id="blackberry_travel_samuel_zeller_171871_unsplash" src="@drawable/travel_samuel_zeller_171871_unsplash" />
+    </category>
+    <category id="blackberry_animal" title="@string/category_animal">
+        <static-wallpaper id="blackberry_animal_aaron_barnaby_454278_unsplash" src="@drawable/animal_aaron_barnaby_454278_unsplash" />
+        <static-wallpaper id="blackberry_animal_alan_emery_121147_unsplash" src="@drawable/animal_alan_emery_121147_unsplash" />
+        <static-wallpaper id="blackberry_animal_alecu_gabriel_331261_unsplash" src="@drawable/animal_alecu_gabriel_331261_unsplash" />
+        <static-wallpaper id="blackberry_animal_baptist_standaert_346832_unsplash" src="@drawable/animal_baptist_standaert_346832_unsplash" />
+        <static-wallpaper id="blackberry_animal_christine_donaldson_309031_unsplash" src="@drawable/animal_christine_donaldson_309031_unsplash" />
+        <static-wallpaper id="blackberry_animal_freddie_marriage_156915_unsplash" src="@drawable/animal_freddie_marriage_156915_unsplash" />
+        <static-wallpaper id="blackberry_animal_freestocks_org_119823_unsplash" src="@drawable/animal_freestocks_org_119823_unsplash" />
+        <static-wallpaper id="blackberry_animal_guillermo_sanchez_547092_unsplash" src="@drawable/animal_guillermo_sanchez_547092_unsplash" />
+        <static-wallpaper id="blackberry_animal_hollie_harmsworth_373134_unsplash" src="@drawable/animal_hollie_harmsworth_373134_unsplash" />
+        <static-wallpaper id="blackberry_animal_james_hammond_347179_unsplash" src="@drawable/animal_james_hammond_347179_unsplash" />
+        <static-wallpaper id="blackberry_animal_jesse_callahan_411729_unsplash" src="@drawable/animal_jesse_callahan_411729_unsplash" />
+        <static-wallpaper id="blackberry_animal_kaiwen_sun_352786_unsplash" src="@drawable/animal_kaiwen_sun_352786_unsplash" />
+        <static-wallpaper id="blackberry_animal_ken_wu_156530_unsplash" src="@drawable/animal_ken_wu_156530_unsplash" />
+    </category>
+    <category id="blackberry_minimalism" title="@string/category_minimalism">
+        <static-wallpaper id="blackberry_minimalism_billy_lam_303_unsplash" src="@drawable/minimalism_billy_lam_303_unsplash" />
+        <static-wallpaper id="blackberry_minimalism_fabian_moller_401628_unsplash" src="@drawable/minimalism_fabian_moller_401628_unsplash" />
+        <static-wallpaper id="blackberry_minimalism_igor_son_320878_unsplash" src="@drawable/minimalism_igor_son_320878_unsplash" />
+        <static-wallpaper id="blackberry_minimalism_pineapple_supply_co_262624_unsplash" src="@drawable/minimalism_pineapple_supply_co_262624_unsplash" />
+        <static-wallpaper id="blackberry_minimalism_simone_hutsch_384766_unsplash" src="@drawable/minimalism_simone_hutsch_384766_unsplash" />
+        <static-wallpaper id="blackberry_minimalism_simone_hutsch_384853_unsplash" src="@drawable/minimalism_simone_hutsch_384853_unsplash" />
+        <static-wallpaper id="blackberry_minimalism_simone_hutsch_384859_unsplash" src="@drawable/minimalism_simone_hutsch_384859_unsplash" />
+        <static-wallpaper id="blackberry_minimalism_simone_hutsch_478127_unsplash" src="@drawable/minimalism_simone_hutsch_478127_unsplash" />
+        <static-wallpaper id="blackberry_minimalism_simone_hutsch_538312_unsplash" src="@drawable/minimalism_simone_hutsch_538312_unsplash" />
+    </category>
+    <category id="blackberry_blackwhite" title="@string/category_blackwhite">
+        <static-wallpaper id="blackberry_blackwhite_david_marcu_751_unsplash" src="@drawable/blackwhite_david_marcu_751_unsplash" />
+        <static-wallpaper id="blackberry_blackwhite_erico_marcelino_235177_unsplash" src="@drawable/blackwhite_erico_marcelino_235177_unsplash" />
+        <static-wallpaper id="blackberry_blackwhite_hoach_le_dinh_96823_unsplash" src="@drawable/blackwhite_hoach_le_dinh_96823_unsplash" />
+        <static-wallpaper id="blackberry_blackwhite_isabella_juskova_470923_unsplash" src="@drawable/blackwhite_isabella_juskova_470923_unsplash" />
+        <static-wallpaper id="blackberry_blackwhite_ornella_binni_102187_unsplash" src="@drawable/blackwhite_ornella_binni_102187_unsplash" />
+        <static-wallpaper id="blackberry_blackwhite_tj_holowaychuk_295674_unsplash" src="@drawable/blackwhite_tj_holowaychuk_295674_unsplash" />
+    </category>
+    <category id="blackberry_food" title="@string/category_food">
+        <static-wallpaper id="blackberry_food_brenda_godinez_227281_unsplash" src="@drawable/food_brenda_godinez_227281_unsplash" />
+        <static-wallpaper id="blackberry_food_brooke_lark_158019_unsplash" src="@drawable/food_brooke_lark_158019_unsplash" />
+        <static-wallpaper id="blackberry_food_brooke_lark_194252_unsplash" src="@drawable/food_brooke_lark_194252_unsplash" />
+        <static-wallpaper id="blackberry_food_brooke_lark_200708_unsplash" src="@drawable/food_brooke_lark_200708_unsplash" />
+        <static-wallpaper id="blackberry_food_jennifer_pallian_146562_unsplash" src="@drawable/food_jennifer_pallian_146562_unsplash" />
+        <static-wallpaper id="blackberry_food_jennifer_pallian_200439_unsplash" src="@drawable/food_jennifer_pallian_200439_unsplash" />
+        <static-wallpaper id="blackberry_food_jessica_castro_350570_unsplash" src="@drawable/food_jessica_castro_350570_unsplash" />
+        <static-wallpaper id="blackberry_food_joseph_gonzalez_192345_unsplash" src="@drawable/food_joseph_gonzalez_192345_unsplash" />
+        <static-wallpaper id="blackberry_food_joseph_gonzalez_228027_unsplash" src="@drawable/food_joseph_gonzalez_228027_unsplash" />
+        <static-wallpaper id="blackberry_food_whitney_wright_282068_unsplash" src="@drawable/food_whitney_wright_282068_unsplash" />
+    </category>
+</wallpapers>
